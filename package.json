@@ -17,7 +17,7 @@
     "debounce": "^1.2.0",
     "emoji-mart": "^2.9.2",
     "firebase": "^5.8.2",
-    "firebase-admin": "^7.0.0",
+    "firebase-admin": "^11.4.1",
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.11",
     "moment": "^2.24.0",
